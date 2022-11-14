@@ -20044,8 +20044,8 @@ AttentionDecoder(
 Epoch: 0 | Batch: 0 | Loss: 11.639569282531738
 Epoch: 0 | Batch: 10000 | Loss: 0.47989216446876526
 
-Average Precision:  0.6673140749929266
-Average Recall:  0.6576875541852077
-Average F-Measure:  0.6624524672557784
+Average Precision:  0.233559926
+Average Recall:  0.230190644
+Average F-Measure:  0.231858364
 
 COMPLETE
